@@ -34,9 +34,9 @@
 <br>
 
 ## 💻 Projeto
-A aplicação foi desenvolvida seguindo as solicitações do teste técnico da empresa casar.com contidas neste [documento](./CHALLENGE_README.md).
+A aplicação foi desenvolvida seguindo as solicitações do teste técnico da empresa Diel Energia contidas neste [documento](./CHALLENGE_DOC.pdf).
 
-Resumo da aplicação: Aplicação fornece um calendário com visibilidade diária, semanal e mensal, que é possivel registrar suas atividades e adicionar criar e adicionar tags se necessário.
+Resumo da aplicação: Aplicação fornece um calendário com visibilidade diária, semanal e mensal, que é possível registrar suas atividades e adicionar criar e adicionar tags se necessário.
 
 ## 🧪 Tecnologias
 
