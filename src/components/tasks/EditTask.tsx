@@ -48,7 +48,7 @@ export function EditTask({ id, closeModal, onEdit }: CreateTaskProps) {
         setSelectedDate(selectedDate);
         setSelectedTime(selectedTime);
       }
-      console.log(`-task------------`, task);
+
       setSelectedTags(task.tags || []);
       setSelectedDuration(task.durationMinutes || 0);
     }

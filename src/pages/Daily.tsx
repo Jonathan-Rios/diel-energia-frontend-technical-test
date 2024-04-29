@@ -26,8 +26,6 @@ export function Daily() {
   const [selectedId, setSelectedId] = useState<string>("");
   const [searchTerm, setSearchTerm] = useState<string>("");
 
-  console.log("Search term:", searchTerm);
-
   const [selectedTags, setSelectedTags] = useState<ITags[]>([]);
 
   function handleEdit(id: string) {
